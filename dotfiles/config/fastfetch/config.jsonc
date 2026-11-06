@@ -3,7 +3,7 @@
 {
   "logo": {
     "color": { "1": "#6b8055" },
-    "source": "/home/jad/.config/fastfetch/ascii.txt",
+    "source": "arch",
     "padding": { "top": 0, "right": 5 },
     "height": 18
   },
