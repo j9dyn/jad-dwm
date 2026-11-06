@@ -1,7 +1,7 @@
 #!/bin/sh
 echo "start-dwm ran at $(date)" >> /tmp/dwm-startup.log
 xrandr --output HDMI-1 --mode 1920x1080 --rate 60
-feh --bg-fill /home/jad/Downloads/gruvbox.jpg
+feh --bg-fill "$HOME/Downloads/gruvbox.jpg
 slstatus &
 dunst &
 
