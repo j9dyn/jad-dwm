@@ -1,0 +1,119 @@
+
+
+{
+  "logo": {
+    "color": { "1": "#6b8055" },
+    "source": "/home/jad/.config/fastfetch/ascii.txt",
+    "padding": { "top": 0, "right": 5 },
+    "height": 18
+  },
+  "display": {
+    "separator": " ▸ "
+  },
+  "modules": [
+    { "type": "title" },
+    "break",
+
+    {
+      "type": "custom",
+      "format": "\u001b[38;2;107;128;85m┌────────────────────────────────────────────────────────────┐"
+    },
+    {
+      "type": "os",
+      "key": "",
+      "keycolor": "#6b8055"
+    },
+    {
+      "type": "kernel",
+      "key": "",
+      "keycolor": "#6b8055"
+    },
+    {
+      "type": "de",
+      "key": "",
+      "keycolor": "#6b8055"
+    },
+    {
+      "type": "wm",
+      "key": "",
+      "keycolor": "#6b8055"
+    },
+    {
+      "type": "packages",
+      "key": "",
+      "keycolor": "#6b8055"
+    },
+    {
+      "type": "custom",
+      "format": "\u001b[38;2;107;128;85m├─────────────────────────────────────────────────────────────┤"
+    },
+
+    {
+      "type": "memory",
+      "key": "",
+      "keycolor": "#6b8055"
+    },
+    {
+      "type": "host",
+      "key": "",
+      "keycolor": "#6b8055"
+    },
+    {
+      "type": "cpu",
+      "key": "",
+      "keycolor": "#6b8055"
+    },
+    {
+      "type": "gpu",
+      "key": "",
+      "keycolor": "#6b8055"
+    },
+    {
+      "type": "swap",
+      "key": "",
+      "keycolor": "#6b8055"
+    },
+    {
+      "type": "disk",
+      "key": "",
+      "keycolor": "#6b8055"
+    },
+    {
+      "type": "battery",
+      "key": "",
+      "keycolor": "#6b8055"
+    },
+
+    {
+      "type": "custom",
+      "format": "\u001b[38;2;107;128;85m├─────────────────────────────────────────────────────────────┤"
+    },
+    {
+      "type": "uptime",
+      "key": "",
+      "keycolor": "#6b8055"
+    },
+    {
+      "type": "terminal",
+      "key": "",
+      "keycolor": "#6b8055"
+    },
+    {
+      "type": "locale",
+      "key": "",
+      "keycolor": "#6b8055"
+    },
+    {
+      "type": "custom",
+      "format": "\u001b[38;2;107;128;85m└────────────────────────────────────────────────────────────┘"
+    },
+
+    {
+      "type": "colors",
+      "paddingLeft": 24,
+      "symbol": "circle",
+      "block": { "width": 10 }
+    },
+    "break"
+  ]
+}
