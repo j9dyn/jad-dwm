@@ -1,3 +1,12 @@
+git clone https://github.com/j9dyn/jad-dwm.git
+
+cd ~dotfiles
+
+.install.sh
+
+
+
+
 # jad-dwm
 lightweight dwm dots with a gruvbox moss theme
 download the wallpaper (gruvbox.jpg)
